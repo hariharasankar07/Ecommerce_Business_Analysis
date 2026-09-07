@@ -1,4 +1,4 @@
-# Ecommerce_sql_business_analysis
+# Ecommerce_Business_Analysis (SQL)
 
 ## Project Overview
 
